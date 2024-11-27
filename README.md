@@ -27,4 +27,6 @@ winver
 
 history:recent
 
+winget install {name program}
+
 
