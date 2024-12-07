@@ -29,4 +29,4 @@ history:recent
 
 winget install {name program}
 
-
+ Services.msc  ===>>> windows update ===>>> stop
