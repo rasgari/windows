@@ -32,3 +32,5 @@ winget install {name program}
  Services.msc  ===>>> windows update ===>>> stop
 
 netplwiz ===>>> create user
+
+ diskmgmt.msc ===>>> disk management
