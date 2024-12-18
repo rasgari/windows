@@ -7,26 +7,28 @@ windows :
 
 دستورات کاربردی ویندوز
 
-cmd
+cmd ===>>> Command Prompt
 
-%temp%
+%temp% ===>>> trash
 
-ncpa.cpl
+ncpa.cpl ===>>> config network
 
-appwiz.cpl
+appwiz.cpl ===>>> config application
 
-firewall.cpl
+firewall.cpl ===>>> config firewall
 
-mstsc
+mstsc ===>>> Microsoft Terminal Services Client
 
-dxdiag
+dxdiag ===>>> DirectX Diagnostic Tool
 
 shell:startup
 
-winver
+winver ===>>> Windows Version
 
 history:recent
 
 winget install {name program}
 
  Services.msc  ===>>> windows update ===>>> stop
+
+netplwiz ===>>> create user
