@@ -35,6 +35,7 @@ netplwiz ===>>> create user
 
  diskmgmt.msc ===>>> disk management
 
+winget upgrade --all ===>>> winget upgrade
 
 =============================================================
 
