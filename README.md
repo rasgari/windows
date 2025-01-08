@@ -37,7 +37,7 @@ diskmgmt.msc ===>>> disk management
 
 winget upgrade --all ===>>> winget upgrade
 
-mrt ===>>> virus delete 
+mrt ===>>>  virus Quick Scan 
 
 =============================================================
 
