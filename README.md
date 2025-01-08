@@ -38,6 +38,7 @@ diskmgmt.msc ===>>> disk management
 winget upgrade --all ===>>> winget upgrade
 
 mrt ===>>> virus delete 
+
 =============================================================
 
 1️⃣کلید M + Windows :
