@@ -29,14 +29,15 @@ history:recent
 
 winget install {name program}
 
- Services.msc  ===>>> windows update ===>>> stop
+Services.msc  ===>>> windows update ===>>> stop
 
 netplwiz ===>>> create user
 
- diskmgmt.msc ===>>> disk management
+diskmgmt.msc ===>>> disk management
 
 winget upgrade --all ===>>> winget upgrade
 
+mrt ===>>> virus delete 
 =============================================================
 
 1️⃣کلید M + Windows :
