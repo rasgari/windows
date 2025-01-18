@@ -40,7 +40,7 @@ diskmgmt.msc ===>>> disk management
 winget upgrade --all ===>>> winget upgrade
 
 mrt ===>>>  virus Quick Scan 
-
+shutdown -a ===>>> shut down
 
 =============================================================
 
