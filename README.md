@@ -42,6 +42,8 @@ winget upgrade --all ===>>> winget upgrade
 mrt ===>>>  virus Quick Scan 
 shutdown -a ===>>> shut down
 
+sysdm.cpl ===>>> advance ===>>> setting  Performance ===>>>  Adjust for best performance
+
 =============================================================
 
 کلید M + Windows :
