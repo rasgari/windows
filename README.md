@@ -44,6 +44,7 @@ shutdown -a ===>>> shut down
 
 sysdm.cpl ===>>> advance ===>>> setting  Performance ===>>>  Adjust for best performance
 
+Windows Sandbox ===>>> Control Panel ===>>> Turn Windows features on or off ===>>> Windows Sandbox
 =============================================================
 
 کلید M + Windows :
