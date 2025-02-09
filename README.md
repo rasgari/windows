@@ -46,6 +46,10 @@ sysdm.cpl ===>>> advance ===>>> setting  Performance ===>>>  Adjust for best per
 
 Windows Sandbox ===>>> Control Panel ===>>> Turn Windows features on or off ===>>> Windows Sandbox
 =============================================================
+notepad++
+close: alt + 1
+open: alt + shift + 1
+=============================================================
 
 کلید M + Windows :
 همه نرم افزار هارو Minimize میکنه برات
