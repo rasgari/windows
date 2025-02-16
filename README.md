@@ -46,7 +46,13 @@ sysdm.cpl ===>>> advance ===>>> setting  Performance ===>>>  Adjust for best per
 
 Windows Sandbox ===>>> Control Panel ===>>> Turn Windows features on or off ===>>> Windows Sandbox
 
+
+WINDOWS SPEED:
 update windows ===>>> windows + I ===>>> update& security
+background appp ===>>> disable
+startup ===>>> disable
+windows + R ===>>> msconfig ===>>> disable software windows
+
 =============================================================
 notepad++
 close: alt + 1
