@@ -51,7 +51,7 @@ WINDOWS SPEED:
 update windows ===>>> windows + I ===>>> update& security
 background appp ===>>> disable
 startup ===>>> disable
-windows + R ===>>> msconfig ===>>> disable software windows
+windows + R ===>>> msconfig ===>>> disable software windows ===>>> services
 
 =============================================================
 notepad++
