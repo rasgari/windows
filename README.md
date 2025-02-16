@@ -45,6 +45,8 @@ shutdown -a ===>>> shut down
 sysdm.cpl ===>>> advance ===>>> setting  Performance ===>>>  Adjust for best performance
 
 Windows Sandbox ===>>> Control Panel ===>>> Turn Windows features on or off ===>>> Windows Sandbox
+
+update windows ===>>> windows + I ===>>> update& security
 =============================================================
 notepad++
 close: alt + 1
