@@ -50,7 +50,7 @@ Windows Sandbox ===>>> Control Panel ===>>> Turn Windows features on or off ===>
 WINDOWS SPEED:
 update windows ===>>> windows + I ===>>> update& security
 background appp ===>>> disable
-startup ===>>> disable
+task manager ===>>> startup ===>>> disable
 windows + R ===>>> msconfig ===>>> disable software windows ===>>> services
 
 =============================================================
