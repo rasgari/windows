@@ -54,6 +54,10 @@ WINDOWS SPEED:
 - task manager ===>>> startup ===>>> disable
 - windows + R ===>>> msconfig ===>>> disable software windows ===>>> services
 
+
+increase power GPU:
+
+- Win + I ===>>> System → Display → Graphics ===>>> browser ===>>> programmer
 =============================================================
 
 notepad++
