@@ -58,6 +58,9 @@ WINDOWS SPEED:
 increase power GPU:
 
 - Win + I ===>>> System → Display → Graphics ===>>> browser ===>>> programmer
+
+windows update blocker ===>>> software install
+
 =============================================================
 
 notepad++
