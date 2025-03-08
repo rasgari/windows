@@ -39,6 +39,7 @@ diskmgmt.msc ===>>> disk management
 
 winget upgrade --all ===>>> winget upgrade
 
+msinfo32 ===>>> system information
 mrt ===>>>  virus Quick Scan 
 shutdown -a ===>>> shut down
 
