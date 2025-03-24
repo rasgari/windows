@@ -9,9 +9,11 @@ windows :
 
 cmd ===>>> Command Prompt
 
+
 %temp% ===>>> trash
 temp ===>>> trash
 prefetch ===>>> trash
+
 
 ncpa.cpl ===>>> config network
 
@@ -41,16 +43,20 @@ diskmgmt.msc ===>>> disk management
 
 winget upgrade --all ===>>> winget upgrade
 
+
 msinfo32 ===>>> system information
 mrt ===>>>  virus Quick Scan 
 shutdown -a ===>>> shut down
 
+
 sysdm.cpl ===>>> advance ===>>> setting  Performance ===>>>  Adjust for best performance
+
 
 Windows Sandbox ===>>> Control Panel ===>>> Turn Windows features on or off ===>>> Windows Sandbox
 
 
 WINDOWS SPEED:
+
 
 - update windows ===>>> windows + I ===>>> update& security
 - background appp ===>>> disable
@@ -58,9 +64,13 @@ WINDOWS SPEED:
 - windows + R ===>>> msconfig ===>>> disable software windows ===>>> services
 - windows + R ===>>> mrt ===>>> malicious software removal tool
 
+
+
 increase power GPU:
 
+
 - Win + I ===>>> System → Display → Graphics ===>>> browser ===>>> programmer
+
 
 windows update blocker ===>>> software install
 
