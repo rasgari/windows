@@ -10,6 +10,8 @@ windows :
 cmd ===>>> Command Prompt
 
 %temp% ===>>> trash
+temp ===>>> trash
+prefetch ===>>> trash
 
 ncpa.cpl ===>>> config network
 
