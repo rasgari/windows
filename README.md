@@ -11,7 +11,9 @@ cmd ===>>> Command Prompt
 
 
 %temp% ===>>> trash
+
 temp ===>>> trash
+
 prefetch ===>>> trash
 
 
@@ -59,9 +61,13 @@ WINDOWS SPEED:
 
 
 - update windows ===>>> windows + I ===>>> update& security
+  
 - background appp ===>>> disable
+
 - task manager ===>>> startup ===>>> disable
+  
 - windows + R ===>>> msconfig ===>>> disable software windows ===>>> services
+  
 - windows + R ===>>> mrt ===>>> malicious software removal tool
 
 
