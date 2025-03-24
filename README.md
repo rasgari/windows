@@ -54,7 +54,7 @@ WINDOWS SPEED:
 - background appp ===>>> disable
 - task manager ===>>> startup ===>>> disable
 - windows + R ===>>> msconfig ===>>> disable software windows ===>>> services
-
+- windows + R ===>>> mrt ===>>> malicious software removal tool
 
 increase power GPU:
 
