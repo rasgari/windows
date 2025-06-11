@@ -4,13 +4,13 @@
 
 🔻توی این پست، چهارتا از پرطرفدارترین نرم‌افزارهای ویندوز که برای ضبط از صفحه استفاده می‌شه رو معرفی میکنیم تا بتونین بدون نیاز به جستجوی اضافی، بهترین گزینه‌ رو انتخاب کنین!
 
-➡️OBS Studio (https://obsproject.com/)
+➡️ [ OBS Studio ](https://obsproject.com/)
 
-➡️ShareX (https://getsharex.com/)
+➡️ [ ShareX ](https://getsharex.com/)
 
-➡️Bandicam (https://www.bandicam.com/?srsltid=AfmBOoovEGxTMwKfCs7IuBcB-ieHUmzb4WwqHiXeXIW6YQi4ilmHNRAe)
+➡️ [ Bandicam ](https://www.bandicam.com/?srsltid=AfmBOoovEGxTMwKfCs7IuBcB-ieHUmzb4WwqHiXeXIW6YQi4ilmHNRAe)
 
-➡️ScreenPal (https://screenpal.com/)
+➡️ [ ScreenPal ](https://screenpal.com/)
 
 =====================================================================
 
@@ -64,19 +64,19 @@
 
 🔻 The Fast Remote Desktop Application
 
-➡️ rustdesk.com
+➡️ [ link ](rustdesk.com)
 
 =====================================================================
 
 🔻 install application at windows
 
 ➡️ bluestacks
-➡️ Genymotion.with.VirtualBox.3.6.0
+➡️ [ link ](Genymotion.with.VirtualBox.3.6.0)
 =====================================================================
 
 🔻 Google to replace assistance
 
-➡️ https://alternativeto.net
+➡️ [ link ](https://alternativeto.net)
 
 =====================================================================
 
@@ -88,12 +88,12 @@
 
 🔻 daily activity
 
-➡️ https://activitywatch.net/
+➡️ [ link ](https://activitywatch.net/)
 
 =====================================================================
 
 🔻 obsidian
 
-➡️  https://obsidian.md/download
+➡️ [ link ](https://obsidian.md/download)
 
 =====================================================================
