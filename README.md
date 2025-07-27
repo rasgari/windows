@@ -16,6 +16,7 @@ temp ===>>> trash
 
 prefetch ===>>> trash
 
+Start ===>>> Disk Cleanup → انتخاب درایو → پاک‌کردن Temporary files، Thumbnail
 
 ncpa.cpl ===>>> config network
 
