@@ -40,6 +40,8 @@ Services.msc  ===>>> windows update ===>>> stop
 
 Services.msc  ===>>> SysMain ===>>> stop
 
+service ===>>> cmd ===>>> net stop elasticsearch , net start elasticsearch & task manager ===>>> service ===>>> application 
+
 netplwiz ===>>> create user
 
 diskmgmt.msc ===>>> disk management
