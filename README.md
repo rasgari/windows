@@ -53,6 +53,7 @@ msinfo32 ===>>> system information
 mrt ===>>>  virus Quick Scan 
 shutdown -a ===>>> shut down
 
+active connections ===>>> netstat -a
 
 sysdm.cpl ===>>> advance ===>>> setting  Performance ===>>>  Adjust for best performance
 
