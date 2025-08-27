@@ -20,6 +20,10 @@ Start ===>>> Disk Cleanup → انتخاب درایو → پاک‌کردن Temp
 
 ncpa.cpl ===>>> config network
 
+cmd ===>>> ping "ipaddress"
+
+cmd ===>>> tracert -d "ipaddress"
+
 appwiz.cpl ===>>> config application
 
 firewall.cpl ===>>> config firewall
