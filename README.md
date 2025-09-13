@@ -65,6 +65,7 @@ active connections ===>>> netstat -a
 
 sysdm.cpl ===>>> advance ===>>> setting  Performance ===>>>  Adjust for best performance
 
+setting ===>>> windows + I 
 
 Windows Sandbox ===>>> Control Panel ===>>> Turn Windows features on or off ===>>> Windows Sandbox
 
