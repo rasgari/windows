@@ -46,6 +46,10 @@ Services.msc  ===>>> SysMain ===>>> stop
 
 service ===>>> cmd ===>>> net stop elasticsearch , net start elasticsearch & task manager ===>>> service ===>>> application 
 
+tasklist ===>>> list program
+
+taskkill /IM firefox.exe  /F ===>>> remove program <<<=== taskkill /IM program.exe  /F
+
 netplwiz ===>>> create user
 
 diskmgmt.msc ===>>> disk management
