@@ -185,3 +185,10 @@ Visual Studio Code / Sublime Text
 t.me/CEngineer93
 
 =====================================
+
+🔻 habits
+
+➡️ https://play.google.com/store/apps/details?id=org.isoron.uhabits&hl=en
+برای برنامه ریزی و کارای روزانه و تحلیل و مانیتورینگ
+
+=====================================
