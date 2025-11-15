@@ -85,6 +85,7 @@ WINDOWS SPEED:
 
 - windows + R ===>>> task scheduler 
 
+- windows + R ===>>> Administrator ===>>> net status software ===>>> status ( start, stop, restart ) ===>>> net start Acunetix
 
 increase power GPU:
 
