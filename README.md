@@ -83,6 +83,7 @@ WINDOWS SPEED:
   
 - windows + R ===>>> mrt ===>>> malicious software removal tool
 
+- windows + R ===>>> task scheduler 
 
 
 increase power GPU:
