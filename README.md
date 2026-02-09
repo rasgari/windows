@@ -192,3 +192,51 @@ winget upgrade  --all
 ↔️↕️ Win + Arrow Keys → چسباندن پنجره‌ها به اطراف صفحه
 
 ===========================================
+
+
+40 Windows Command Prompt commands you need to know 👇
+
+1. ipconfig
+2. ipconfig /all
+3. findstr
+4. ipconfig /release
+5. ipconfig /renew
+6. ipconfig /displaydns
+7. clip
+8. ipconfig /flushdns
+9. nslookup
+10. cls
+11. getmac /v
+12. powercfg /energy
+13. powercfg /batteryreport
+14. assoc
+15. chkdsk /f
+16. chkdsk /r
+17. sfc /scannow
+18. DISM /Online /Cleanup /CheckHealth
+19. DISM /Online /Cleanup /ScanHealth
+20. DISM /Online /Cleanup /RestoreHealth
+21. tasklist
+22. taskkill
+23. netsh wlan show wlanreport
+24. netsh interface show interface
+25. netsh interface ip show address | findstr "IP Address"
+26. netsh interface ip show dnsservers
+27. netsh advfirewall set allprofiles state off
+28. netsh advfirewall set allprofiles state on
+29. ping
+30. ping -t
+31. tracert
+32. tracert -d
+33. netstat
+34. netstat -af
+35. netstat -o
+36. netstat -e -t 5
+37. route print
+38. route add
+39. route delete
+40. shutdown /r /fw /f /t 0
+
+
+---
+
