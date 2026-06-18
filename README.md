@@ -87,6 +87,9 @@ WINDOWS SPEED:
 
 - windows + R ===>>> Administrator ===>>> net status software ===>>> status ( start, stop, restart ) ===>>> net start Acunetix
 
+-windows + R ===>>> cmd ===>>> powercfg batteryreport ===>>> drive c ===>>> user ===>>> battery report
+
+
 increase power GPU:
 
 
